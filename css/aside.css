@@ -1,0 +1,32 @@
+.aside__button {
+    margin-bottom: 20px;
+    border: none;
+    padding: 10px;
+    background: violet;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 10px rgb(55, 41, 41);
+}
+
+.aside__unorderedList {
+    list-style-type: circle;
+    margin: 20px;
+    text-align: left;
+    padding:10px;
+}
+
+.aside__item {
+    color: #686868;
+    list-style-type: disc;
+}
+
+.article__photos{
+    margin: 10px
+}
+
+.article__background {
+    background:#e6a7a782;
+}
+
+.article__background--change {
+    background: rgb(151, 181, 190);
+}

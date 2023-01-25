@@ -1,0 +1,29 @@
+.navigation__list {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 5px;
+    margin: 20px;
+}
+
+.navigation__listItem {
+    margin: 5px;
+    margin-inline: 40px;
+    float: left;
+    text-decoration: none;
+    color: crimson;
+    font-size: 15px;
+}
+
+.navigation__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+    color: red;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.navigation__link:active {
+    color: brown;
+}

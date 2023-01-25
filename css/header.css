@@ -1,0 +1,11 @@
+.header {
+    background-color: #eee;
+    padding: 10px 20px;
+    margin-top: 20px;
+    outline: 5px dotted grey;
+    outline-offset: 5px;
+}
+
+.header__text {
+    font-weight: 600;
+}

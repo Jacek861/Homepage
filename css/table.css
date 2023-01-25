@@ -1,0 +1,30 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    background: white;
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 15px;
+}
+
+.table__cell  {
+    border: 2px solid rgb(161, 134, 134);
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.table__cell--header {
+    background-color: rgb(215, 202, 185);
+    font-weight: normal;
+}
+
+.table__row:nth-child(even) {
+    background: #eee;
+}
+
+.table__row:hover {
+    background: #ddd;
+}
