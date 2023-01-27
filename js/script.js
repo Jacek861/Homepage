@@ -1,8 +1,8 @@
 {
     const Welcome = () => {
         console.log("Welcome!")
-        Welcome()
     };
+    Welcome()
 
     const togglebackground = () => {
         const articlebackground = document.querySelector(".article__background")
@@ -25,7 +25,7 @@
         const asideItem = document.querySelector(".aside__item")
         asideItem.remove()
     };
-    
+
     const init = () => {
         const asideButton = document.querySelector(".aside__button")
         asideButton.addEventListener("click", textRemove);
