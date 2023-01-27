@@ -1,3 +1,3 @@
-# Filmweb boxoffice
-## It's the first website I created when I started YouCode course. Link below shows simple Filmweb boxoffice.
+# Filmweb Box Office
+## This is the first website I created at the beginning of the course. It shows simple Filmweb boxoffice ranking.
 https://jacek861.github.io/Homepage/
