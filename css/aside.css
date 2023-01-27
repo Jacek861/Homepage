@@ -30,3 +30,9 @@
 .article__background--change {
     background: rgb(151, 181, 190);
 }
+
+.asideFlex {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}

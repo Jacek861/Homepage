@@ -6,9 +6,6 @@
 }
 
 .navigation__listItem {
-    margin: 5px;
-    margin-inline: 40px;
-    float: left;
     text-decoration: none;
     color: crimson;
     font-size: 15px;
@@ -26,4 +23,10 @@
 
 .navigation__link:active {
     color: brown;
+}
+
+.navigationflex {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
 }
