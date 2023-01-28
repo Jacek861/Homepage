@@ -4,9 +4,11 @@ This is the first website I created at the beginning of the course. It shows sim
 
 ### Demo [Hompage](https://jacek861.github.io/Homepage/)
 
-![Slow motion show](images/Animation.gif)
+![Preview](images/Animation.gif)
 
 ## Technologies
 - HTML
 - CSS
 - JavaScript
+- BEM convention
+- ES6+ features
